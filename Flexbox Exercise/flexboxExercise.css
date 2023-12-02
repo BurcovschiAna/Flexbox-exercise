@@ -1,0 +1,24 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.container1 p {
+  width: 250px;
+  text-align: justify;
+}
+.container2 p {
+  width: 500px;
+  text-align: justify;
+}
+.container2 {
+  margin-top: 100px;
+  margin-left: 20px;
+}
+h1 {
+  font-size: 18px;
+}
+.div2 img,
+.div3 img {
+  width: 150px;
+}
